@@ -1,1 +1,1 @@
-# JAMStack, Gatsby & Sitegeist.Stencil
+# Gatsby & Sitegeist.Stencil
