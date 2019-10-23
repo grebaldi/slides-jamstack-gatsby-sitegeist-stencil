@@ -15,7 +15,7 @@
 
 __Hosting:__ Cloud (kostenpfl.)
 
-(_ToDo: Screen_)
+<img src="./04-assets/contentful-screenshot.png" style="width: 300px;" alt="Screenshot Contentfull" />
 
 ---
 
@@ -32,7 +32,7 @@ __Hosting:__ Cloud (kostenpfl.)
 
 __Hosting:__ Cloud (kostenpfl.)
 
-(_ToDo: Screen_)
+<img src="./04-assets/netlify-screenshot.jpg" style="width: 300px;" alt="Screenshot Netlify CMS" />
 
 ---
 
@@ -49,7 +49,7 @@ __Hosting:__ Cloud (kostenpfl.)
 
 __Hosting:__ Selbst (opensource)
 
-(_ToDo: Screen_)
+<img src="./04-assets/strapi-screenshot.png" style="width: 300px;" alt="Screenshot Strapi" />
 
 ---
 
