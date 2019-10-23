@@ -1,6 +1,5 @@
-# Gatsby
 
-(_ToDo: Logo Icon_)
+# <img src="./03-assets/Gatsby-Logo.svg" style="width: 300px;" alt="Gatsby Logo" />
 
 ---
 
@@ -24,36 +23,26 @@ If there are to much pages
 
 ## Funktionsweise
 
-(_ToDo: visuelle Darstellung_)
-
-- Zusammenspiel Gatsby, React, Datenquelle, Deployment
+![Flowchrat Gatsby](./03-assets/flowchart-gatsby.png)
 
 ---
 
 ## Benefits
 
-- Starting MVP without backend,
-- Creating MVP with Gatsby is fast und cheaper, because in the beginning no CMS integration ist required
-- Fokus von Geld und Zeit auf die Lösung der Kundenprobleme, statt auf die CMS Integration 
-- Backend kann be nearly every System with an api
-- You can switch CMS in the back without rebuilding or migrating Frontend Components (e.g. between TYPO3, shopware and Neos)
-- You can get your content from multible sources at the same time
-- Reuse Components Across Websites with component libraries, StoryBook, StyleGuidist
-- Prograssive Web App
-- Starter packages
-- React components can be easily reused in other Systems like Next.js
-- Security (No server side application code)
+- MVP Test vor CMS.
+- MVP kann ohne großes CMS Setup Live gehen,
+- CMS kann wenn nötig nachgereicht werden.
+- Progressive Web App möglich
+- Performance und Code SEO Optimiert
+- Daten aus mehreren Apis gleichzeitig (CMS, GraphQL, Rest, Markdown,.....)
+- Austausch Datenquelle ohne Seiteneffekte im Frontend
+- React Components Wiederverwendbar (z.B. in Next.js, oder RCA)
+- Security: Keine serverseitiger Ausführung von Code (kein php, node, mysql...)
+- Living Syleguide: Storybook, Styleguidist
+- Deployment: Weniger Daten werden übertragen -> schnellere Deployment
 
 ---
 
 ## Trusted by
 
-(_TODO: Implement some Logo Icons_)
-
-Airbnb
-Braun
-Nike
-PayPal
-React
-Sendgrid
-....
+![trusted by](./03-assets/trustedBy.png)
