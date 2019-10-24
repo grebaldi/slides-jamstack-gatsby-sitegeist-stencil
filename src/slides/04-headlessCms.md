@@ -1,13 +1,12 @@
 # Headless CMS als DataSource für Gatsby
 
-   (_ToDO: Logos_)
-   Contentful, Netlify CMS, Strapi
+z.B. Contentful, Netlify CMS, Strapi
 
 ---
 
 ## Funktionsweise
 
-(ToDO: Visualisierung: Content -> Api -> Build)
+![Compoare CMS](./04-assets/flowchart.svg)
 
 ---
 
