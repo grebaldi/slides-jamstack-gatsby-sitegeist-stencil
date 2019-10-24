@@ -15,6 +15,10 @@ bukk <a href="http://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>
 ![Grinder](./05-assets/grinder.jpg)
 
 ---
+# Sitegeist.Stencil.Grinder
+
+
+---
 ![Sitegeist.Stencil.Grinder](./05-assets/grinder-screenshot.png)
 
 ---
