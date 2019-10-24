@@ -24,19 +24,19 @@ Jekyll, Next, Gatsby...
 
 ---
 
-# Vorteile
+## Vorteile
 
 - Sehr einfaches Hosting (html, css, js)
 - Entwicklung unabhängig vom Backend (MVP) -> Schnelle Iterationen
 - Datenquelle Austauschbar (CMS, API, Files), ohne Seiteneffekte
 - Security: Keine Ausführung von serverseitigem Code -> Weniger Sicherheitslücken
 
-# Nachteile
+## Nachteile
 
 - Changes am Content werden erst nach Build und Deployment sichtbar
 
 ---
 
-# Verbreitete Generatoren
+## Verbreitete Generatoren
 
 ![Gatsby.js, Next.js, Jekyll](./02-assets/staticSitegeneratorLogos.svg)
