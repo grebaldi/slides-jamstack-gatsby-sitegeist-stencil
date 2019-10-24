@@ -5,7 +5,7 @@
 
 ## Funktionsweise
 
-![Flowchrat Gatsby](./03-assets/flowchart-gatsby.png)
+![Flowchart Gatsby](./03-assets/flowchart-gatsby.svg)
 
 ---
 
