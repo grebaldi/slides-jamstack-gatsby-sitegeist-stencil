@@ -45,4 +45,4 @@ If there are to much pages
 
 ## Trusted by
 
-![trusted by](./03-assets/trustedBy.png)
+![trusted by](./03-assets/trustedBy.svg)
