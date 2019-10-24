@@ -31,6 +31,12 @@
 
 ## Vorteile
 
+![The great Gatsby](./03-assets/theGatsby.gif)
+
+---
+
+## Vorteile
+
 - CMS kann wenn nötig nachgereicht werden.
 - Progressive Web App möglich
 - Performance und Assets SEO Optimiert
