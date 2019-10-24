@@ -3,6 +3,12 @@
 
 ---
 
+## Funktionsweise
+
+![Flowchrat Gatsby](./03-assets/flowchart-gatsby.png)
+
+---
+
 ## Workflow
 
 (_ToDo: Visualisierung der Punkte als Flussdiagramm_)
@@ -18,12 +24,6 @@ If content changes fast and often
 If there are to much pages
 
 - Next.js with reusable React Components from Gatsby
-
----
-
-## Funktionsweise
-
-![Flowchrat Gatsby](./03-assets/flowchart-gatsby.png)
 
 ---
 
