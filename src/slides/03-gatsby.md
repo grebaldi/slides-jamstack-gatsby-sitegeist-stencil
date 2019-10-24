@@ -5,25 +5,27 @@
 
 ## Funktionsweise
 
+---
+
+## Funktionsweise
+
 ![Flowchart Gatsby](./03-assets/flowchart-gatsby.svg)
 
 ---
 
 ## Workflow
 
-(_ToDo: Visualisierung der Punkte als Flussdiagramm_)
+---
 
-- React (Build the Frontend MVP)
+## Workflow
 
-- Gatsby (Add pages and static Content) -> go online
+![Workflow Gatsby MVP](./03-assets/workflow1.svg)
 
-If content changes fast and often
+---
 
-- Gatsby with API (get content from an API, or Headless CMS)
+## Workflow
 
-If there are to much pages
-
-- Next.js with reusable React Components from Gatsby
+![Workflow Gatsby CMS](./03-assets/workflow2.svg)
 
 ---
 
