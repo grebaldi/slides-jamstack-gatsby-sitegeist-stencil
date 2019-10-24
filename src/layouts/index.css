@@ -178,3 +178,12 @@ header a:hover {
 header span {
   color: var(--text);
 }
+
+small {
+  color: #555;
+  font-size: 60%;
+}
+
+small a {
+  color: #555;
+}
