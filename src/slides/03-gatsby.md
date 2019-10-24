@@ -27,19 +27,25 @@ If there are to much pages
 
 ---
 
-## Benefits
+## Vorteile
 
-- MVP Test vor CMS.
-- MVP kann ohne großes CMS Setup Live gehen,
 - CMS kann wenn nötig nachgereicht werden.
 - Progressive Web App möglich
-- Performance und Code SEO Optimiert
+- Performance und Assets SEO Optimiert
 - Daten aus mehreren Apis gleichzeitig (CMS, GraphQL, Rest, Markdown,.....)
-- Austausch Datenquelle ohne Seiteneffekte im Frontend
-- React Components Wiederverwendbar (z.B. in Next.js, oder RCA)
-- Security: Keine serverseitiger Ausführung von Code (kein php, node, mysql...)
+- MDX (Markdown mit JSX)
+- React Components Wiederverwendbar (z.B. in Next.js)
 - Living Syleguide: Storybook, Styleguidist
 - Deployment: Weniger Daten werden übertragen -> schnellere Deployment
+- Sehr große Community für React und Gatsby
+
+---
+
+## Nachteile
+
+- Sehr opinionated
+- Build wird mit steigender Anzahl von Inhalten langsamer
+- Quick Fixes bei großen Seiten Zeitintensiv (Build und Deployment)
 
 ---
 

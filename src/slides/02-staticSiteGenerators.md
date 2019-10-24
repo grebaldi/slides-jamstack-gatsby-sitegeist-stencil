@@ -28,7 +28,7 @@ Jekyll, Next, Gatsby...
 
 - Sehr einfaches Hosting (html, css, js)
 - Entwicklung unabhängig vom Backend (MVP) -> Schnelle Iterationen
-- Datenquelle Austauschbar (CMS, API, Files), ohne Seiteneffekte
+- Datenquelle Austauschbar (CMS, API, Files)
 - Security: Keine Ausführung von serverseitigem Code -> Weniger Sicherheitslücken
 
 ## Nachteile
